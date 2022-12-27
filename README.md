@@ -1,6 +1,7 @@
 ![MasterHead](bannermy.jpg)
 <h1 align="center">Hi 👋, I'm Layan Yasoda</h1>
 <h3 align="center">A Tech Enthusiast from Sri Lanka</h3>
+<br>
 
 - 🌱 I’m currently learning **React**
 
