@@ -3,8 +3,6 @@
 <h3 align="center">A Tech Enthusiast from Sri Lanka</h3>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Layan;Nice+to+meet+you.)](https://git.io/typing-svg)
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Anything**
