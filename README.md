@@ -10,7 +10,7 @@
 
 |    |      |
 | ------ | ------ |
-| ![Test](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg") | [plugins/dropbox/README.md][PlDb] |
+| ![Test](<a href="https://codepen.io/layanyashoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="layanyashoda" height="30" width="40" /></a>) | [plugins/dropbox/README.md][PlDb] |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
