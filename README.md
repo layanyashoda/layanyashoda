@@ -1,4 +1,4 @@
-![MasterHead](bannermynew.jpg)
+![MasterHead](banner.jpg)
 <h1 align="center">Hi 👋, I'm Layan Yasoda</h1>
 <br>
 
